@@ -1,5 +1,10 @@
 # 🔐 SecureVault – Encrypted Password Manager
 
+![Wallpaper Image](https://github.com/Jeewaka15/My-Projects---First-Phase/blob/3db92002b111797af98b90978fe0e2ede3d6e279/SecureVault/SecureVault%20Project%20Wallpaper.png)
+
+<br><br>
+
+
 SecureVault is a secure password manager built with **Python** and **Flask** as part of my Cybersecurity Foundations journey. The project focuses on applying modern cryptographic principles rather than simply storing passwords in plain text.
 
 ## 🚀 Overview
@@ -17,15 +22,15 @@ The application uses industry-recognized security practices, including:
 * Responsive Flask web interface
 
 
-![First Image](https://github.com/Jeewaka15/My-Projects-First-Phase/blob/d8fac9ad9c6b9a1b0ed62d5313d6b35734a91d84/SecureVault/SecureVault%20(1).png)
+![First Image](https://github.com/Jeewaka15/My-Projects---First-Phase/blob/3db92002b111797af98b90978fe0e2ede3d6e279/SecureVault/SecureVault%20(1).png)
 
 <br><br>
 
-![Second Image](https://github.com/Jeewaka15/My-Projects-First-Phase/blob/d8fac9ad9c6b9a1b0ed62d5313d6b35734a91d84/SecureVault/SecureVault%20(2).png)
+![Second Image](https://github.com/Jeewaka15/My-Projects---First-Phase/blob/3db92002b111797af98b90978fe0e2ede3d6e279/SecureVault/SecureVault%20(2).png)
 
 <br><br>
 
-![Third Image](https://github.com/Jeewaka15/My-Projects-First-Phase/blob/d8fac9ad9c6b9a1b0ed62d5313d6b35734a91d84/SecureVault/SecureVault%20(3).png)
+![Third Image](https://github.com/Jeewaka15/My-Projects---First-Phase/blob/3db92002b111797af98b90978fe0e2ede3d6e279/SecureVault/SecureVault%20(3).png)
 
 
 ---
