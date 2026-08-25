@@ -1,6 +1,6 @@
 # 🔍 Hash Identifier
 
-![Wallpaper Image]([https://github.com/Jeewaka15/My-Projects---First-Phase/blob/00bde57f39143f025f7b845eeeba9723a4b11142/Hash%20Identifier/Hash%20Identifier%20(1).png](https://github.com/Jeewaka15/My-Projects---First-Phase/blob/00bde57f39143f025f7b845eeeba9723a4b11142/Hash%20Identifier/Hash%20Identifier%20Project%20Wallpaper.png))
+![Wallpaper Image](https://github.com/Jeewaka15/My-Projects---First-Phase/blob/a9e6f8efb9b14c23a16d05128796af15061f379e/Hash%20Identifier/Hash%20Identifier%20Project%20Wallpaper.png)
 
 <br><br>
 
