@@ -1,5 +1,9 @@
 # 🌐 HTTP Header Scanner
 
+![Wallpaper Image](https://github.com/Jeewaka15/My-Projects---First-Phase/blob/bfc2bfe0cd8015a9ecd71577b4cda884abb5464c/HTTP%20Header%20Scanner/Project%20Wallpaper.png)
+
+<br><br>
+
 A Python and Flask-based HTTP Header Scanner built as part of my **Cybersecurity Foundations (Phase 01)** learning journey. This project analyzes HTTP response headers and evaluates whether a website follows security best practices by checking for missing or misconfigured security headers.
 
 ## 🚀 Overview
@@ -7,11 +11,15 @@ A Python and Flask-based HTTP Header Scanner built as part of my **Cybersecurity
 HTTP Header Scanner is a web security auditing tool that sends HTTP requests to a target website, retrieves its response headers, and evaluates the presence of important security headers. It provides a security score along with recommendations to improve the website's security posture.
 
 
+
+
 ![First Image](https://github.com/Jeewaka15/My-Projects---First-Phase/blob/ed79628800a66f2f587efcb29682a9eb36dabd4a/HTTP%20Header%20Scanner/HTTP%20Header%20Scanner%20(1).png)
 
 <br><br>
 
-![Second Image](https://github.com/Jeewaka15/My-Projects-First-Phase/blob/928510a26a8d4e669bd32724e6be0c6ef1303c07/HTTP%20Header%20Scanner/HTTP%20Header%20Scanner%20(2).png)
+![Second Image](https://github.com/Jeewaka15/My-Projects---First-Phase/blob/542feeb59718a47b3723da43ab74270a5eb21b71/HTTP%20Header%20Scanner/HTTP%20Header%20Scanner%20(2).png)
+
+
 
 
 
