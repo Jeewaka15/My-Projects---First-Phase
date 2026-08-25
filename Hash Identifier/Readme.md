@@ -1,20 +1,24 @@
 # 🔍 Hash Identifier
 
+![Wallpaper Image]([https://github.com/Jeewaka15/My-Projects---First-Phase/blob/00bde57f39143f025f7b845eeeba9723a4b11142/Hash%20Identifier/Hash%20Identifier%20(1).png](https://github.com/Jeewaka15/My-Projects---First-Phase/blob/00bde57f39143f025f7b845eeeba9723a4b11142/Hash%20Identifier/Hash%20Identifier%20Project%20Wallpaper.png))
+
+<br><br>
+
 A Python and Flask-based Hash Identifier built as part of my **Cybersecurity Foundations (Phase 01)** learning journey. This project analyzes an input hash and identifies its possible hash algorithm based on its length, format, prefix, and character set.
 
 ## 🚀 Overview
 
 Hash Identifier is a practical cybersecurity tool designed to help identify common hash types without attempting to crack them. It provides a clean web interface and a REST API for identifying hashes, making it useful for learning digital forensics, password security, and penetration testing fundamentals.
 
-![First Image](https://github.com/Jeewaka15/My-Projects-First-Phase/blob/54c88b194c740b68618330f54c1352c8cdd2a9f7/Hash%20Identifier/Hash%20Identifier/Hash%20Identifier%20(1).png)
+![First Image](https://github.com/Jeewaka15/My-Projects---First-Phase/blob/00bde57f39143f025f7b845eeeba9723a4b11142/Hash%20Identifier/Hash%20Identifier%20(1).png)
 
 <br><br>
 
-![Second Image](https://github.com/Jeewaka15/My-Projects-First-Phase/blob/54c88b194c740b68618330f54c1352c8cdd2a9f7/Hash%20Identifier/Hash%20Identifier/Hash%20Identifier%20(2).png)
+![Second Image](https://github.com/Jeewaka15/My-Projects---First-Phase/blob/00bde57f39143f025f7b845eeeba9723a4b11142/Hash%20Identifier/Hash%20Identifier%20(2).png)
 
 <br><br>
 
-![Third Image](https://github.com/Jeewaka15/My-Projects-First-Phase/blob/54c88b194c740b68618330f54c1352c8cdd2a9f7/Hash%20Identifier/Hash%20Identifier/Hash%20Identifier%20(3).png)
+![Third Image](https://github.com/Jeewaka15/My-Projects---First-Phase/blob/00bde57f39143f025f7b845eeeba9723a4b11142/Hash%20Identifier/Hash%20Identifier%20(3).png)
 
 
 
